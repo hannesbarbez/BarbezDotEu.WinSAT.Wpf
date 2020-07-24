@@ -17,10 +17,7 @@ Start the Experience Index System Assessment Tool. For optimal and accurate resu
 - Includes five sub scores measuring respectively processor, memory, desktop graphics, 3D graphics, and primary disk.
 
 # Author
-Hannes Barbez, www.barbez.eu
-
-# Development era
-2017-2019
+Hannes Barbez (www.barbez.eu), between 2017-2020.
 
 # Technicalities
 C#, WPF, PowerShell, XAML, multi-threading, WinSAT
