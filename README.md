@@ -1,4 +1,4 @@
-# BarbezDotEu.WinSAT.Wpf
+# Experience Index System Assessment Tool (WPF)
 Source code for the WPF version of the Experience Index Assessment Tool.
 
 An more extended UWP version is available from the Microsoft Store at https://www.microsoft.com/p/experience-index-system-assessment-tool/9mt9h8ptp897
@@ -22,4 +22,4 @@ Hannes Barbez
 2017-2018
 
 # Technicalities
-C#, WPF, PowerShell, XAML, multi-threading
+C#, WPF, PowerShell, XAML, multi-threading, WinSAT
