@@ -1,5 +1,5 @@
 # Experience Index System Assessment Tool (WPF)
-![Experience Index System Assessment Tool (WPF) screenshot](https://barbez.eu/wp-content/uploads/2020/07/image-1.png)
+![Experience Index System Assessment Tool (WPF) screenshot - finished](https://barbez.eu/wp-content/uploads/2020/07/image-1.png)
 
 The Experience Index System Assessment Tool is a replacement for the graphical user interface (GUI) of the Windows System Assessment Tool (WinSAT) originally introduced in Windows Vista, but removed from Windows 8.1 and later versions.
 
@@ -9,6 +9,8 @@ This app initiates the original WinSAT test, which assesses performance characte
 
 # Usage
 Start the Experience Index System Assessment Tool. For optimal and accurate results, leave it running uninterrupted by not using any other programs until all scores are calculated and appear on screen. The app shows a "working" background animation while all necessary System Assessment tests are being run. This can take several minutes. When finished, the Windows Experience Index will be shown. 
+
+![Experience Index System Assessment Tool (WPF) screenshot - in progress](https://barbez.eu/wp-content/uploads/2020/07/image.png)
 
 # Features
 - Substitutes the graphical user interface (GUI) of the Windows System Assessment Tool (WinSAT)
