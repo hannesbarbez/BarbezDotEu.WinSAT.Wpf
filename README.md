@@ -17,7 +17,7 @@ Start the Experience Index System Assessment Tool. For optimal and accurate resu
 - Includes five sub scores measuring respectively processor, memory, desktop graphics, 3D graphics, and primary disk.
 
 # Author
-Hannes Barbez
+Hannes Barbez, www.barbez.eu
 
 # Development era
 2017-2019
