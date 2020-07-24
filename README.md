@@ -1,7 +1,5 @@
 # Experience Index System Assessment Tool (WPF)
-Source code for the WPF version of the Experience Index Assessment Tool.
-
-An more extended UWP version is available from the Microsoft Store at https://www.microsoft.com/p/experience-index-system-assessment-tool/9mt9h8ptp897
+*An more extended UWP version is available from the Microsoft Store at https://www.microsoft.com/p/experience-index-system-assessment-tool/9mt9h8ptp897*
 
 The Experience Index System Assessment Tool is a replacement for the graphical user interface (GUI) of the Windows System Assessment Tool (WinSAT) originally introduced in Windows Vista, but removed from Windows 8.1 and later versions.
 
